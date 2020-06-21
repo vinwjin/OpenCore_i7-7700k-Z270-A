@@ -15,6 +15,7 @@
   - [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
   
   ## 相关教程（建设中）
+- [EFI百度下载](https://pan.baidu.com/s/1lDSgyD3ENxq7xg0xqHU2ig) 提取码: 6nbt
   
   ## 电脑配置
   
