@@ -1,6 +1,6 @@
 # OpenCore 0.5+ i7 7700k+Z270-a EFI
 
-## 更新日期：2020年5月17日 OpenCore 0.5.8版本
+## 更新日期：2020年6月20日 OpenCore 0.5.9版本
 
 ## 说明
 
@@ -13,6 +13,8 @@
   - [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
   - [使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
   - [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
+  
+  ## 相关教程（建设中）
   
   ## 电脑配置
   
