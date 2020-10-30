@@ -1,0 +1,103 @@
+ #######################################################
+ #                iMac8,1 SMBIOS Info                  #
+#######################################################
+
+Type:         iMac8,1
+Serial:       W883807H3SZ
+Board Serial: W883702QA0008
+SmUUID:       0FF55550-C31D-4F9A-97FD-44495A4BD961
+
+Type:         iMac8,1
+Serial:       W89303YF3SZ
+Board Serial: W892902MX000W
+SmUUID:       FDBEAB4A-223D-41A8-84EB-456A8B5013E2
+
+Type:         iMac8,1
+Serial:       W88290363SZ
+Board Serial: W882801CC000B
+SmUUID:       EB62A570-F4AC-4442-9EBC-C854D039CF4B
+
+Type:         iMac8,1
+Serial:       W88160MF3SZ
+Board Serial: W88150243000F
+SmUUID:       467ABB36-B9B4-4390-95BA-BAD27BE00947
+
+Type:         iMac8,1
+Serial:       W88423ZN3SZ
+Board Serial: W8841013D0004
+SmUUID:       9C171E4F-4E04-4470-9BFE-2BA9A48C2A13
+
+Type:         iMac8,1
+Serial:       W89280VV3SZ
+Board Serial: W892704P4000H
+SmUUID:       3BF6B96F-E6CF-4A8C-A963-3BBCEC63E7B8
+
+Type:         iMac8,1
+Serial:       W8913EZY3SZ
+Board Serial: W891206R2000K
+SmUUID:       93B8A2A5-193B-4D66-8367-E720538C131E
+
+Type:         iMac8,1
+Serial:       W8805HZ43SZ
+Board Serial: W880402BR000A
+SmUUID:       F67DE3DD-6962-4B97-AEFD-D004F90B3F40
+
+Type:         iMac8,1
+Serial:       W89010CY3SZ
+Board Serial: W88530290000T
+SmUUID:       12CC4E90-E406-4EE6-AEDA-9068A4F48D13
+
+Type:         iMac8,1
+Serial:       W8916AYQ3SZ
+Board Serial: W8915015Q000R
+SmUUID:       CE0AD3E6-F2F6-4E1F-B24A-579E1B5DF499
+
+Type:         iMac8,1
+Serial:       W89260Y03SZ
+Board Serial: W892502P6000K
+SmUUID:       53E88B6E-F856-4646-9EC2-1B14DE878197
+
+Type:         iMac8,1
+Serial:       W8901WZ83SZ
+Board Serial: W8853029S0001
+SmUUID:       E9EB03A4-3ED0-4436-9F71-D906963EF276
+
+Type:         iMac8,1
+Serial:       W88390YS3SZ
+Board Serial: W883801V9000U
+SmUUID:       4811F888-B3A1-4FC2-BB3D-F60E863C56F1
+
+Type:         iMac8,1
+Serial:       W8835WYW3SZ
+Board Serial: W88340105000M
+SmUUID:       7B4BF8ED-1ED3-4501-9343-A2BFDDB3A808
+
+Type:         iMac8,1
+Serial:       W8927VZJ3SZ
+Board Serial: W892601U0000A
+SmUUID:       178BF581-FC77-4DAD-B6BF-B55FD10E945F
+
+Type:         iMac8,1
+Serial:       W8949SZF3SZ
+Board Serial: W894802F20004
+SmUUID:       2D6CB34F-8185-4162-9E62-6B73DE40B649
+
+Type:         iMac8,1
+Serial:       W88286YT3SZ
+Board Serial: W88270WR3000M
+SmUUID:       1CF67ACE-4A93-46D4-9B15-8630437BE214
+
+Type:         iMac8,1
+Serial:       W89080JC3SZ
+Board Serial: W890703CD000E
+SmUUID:       F9921C51-BBF9-42BC-A259-41D127C527A2
+
+Type:         iMac8,1
+Serial:       W8808EZU3SZ
+Board Serial: W8807029Z0005
+SmUUID:       39804A66-1B7F-4D62-AD55-02FA076CAD10
+
+Type:         iMac8,1
+Serial:       W884500F3SZ
+Board Serial: W88440XPP0003
+SmUUID:       06952CA4-03A6-4974-B5F3-405318D2C871
