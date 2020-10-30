@@ -1,4 +1,4 @@
-# OpenCore 0.5+ i7 7700k+Z270-a EFI
+# OpenCore 0.6+ i7 7700k+Z270-a EFI
 
 ## 更新日期：2020年10月30日 OpenCore 0.6.2版本
 
